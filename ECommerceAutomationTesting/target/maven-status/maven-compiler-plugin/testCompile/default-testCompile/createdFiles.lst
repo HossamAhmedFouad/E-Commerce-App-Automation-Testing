@@ -1,0 +1,17 @@
+com\ecommerce\StepDefinitions\LoginStepDefinition.class
+com\ecommerce\StepDefinitions\ResetPasswordStepDefinition.class
+com\ecommerce\StepDefinitions\AddToWishlistStepDefinition.class
+com\ecommerce\StepDefinitions\OrderStepDefinition.class
+com\ecommerce\Pages\ResetPasswordPageModel.class
+com\ecommerce\StepDefinitions\SearchStepDefinition.class
+com\ecommerce\StepDefinitions\FilterStepDefinition.class
+com\ecommerce\Pages\RegistrationPageModel.class
+com\ecommerce\StepDefinitions\AddToCartStepDefinition.class
+com\ecommerce\Runner\TestRunner.class
+com\ecommerce\StepDefinitions\RegistrationStepDefinition.class
+com\ecommerce\StepDefinitions\TagStepDefinition.class
+com\ecommerce\StepDefinitions\CategoryStepDefinition.class
+com\ecommerce\StepDefinitions\CurrencyStepDefinition.class
+com\ecommerce\Pages\LoginPageModel.class
+com\ecommerce\Pages\CheckoutPageModel.class
+com\ecommerce\StepDefinitions\AddToCompareListStepDefinition.class
